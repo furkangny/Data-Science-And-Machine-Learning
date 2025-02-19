@@ -158,6 +158,7 @@ This folder contains various sub-tutorials on machine learning and data science.
 ## Basic Data Visualization
 - **Content**: Fundamental data visualization approaches.  
 - **What you'll find**: Basic line, bar, histogram, and scatter plots with libraries like Matplotlib.
+  
 
 ---
 
