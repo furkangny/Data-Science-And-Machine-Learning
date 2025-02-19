@@ -15,8 +15,7 @@ Bu repoda makine öğrenmesi ve veri bilimiyle ilgili **farklı konulara dair no
 5. [Data Science Mini Practice](#data-science-mini-practice)
 6. [Data Pre-processing (Cleaning)](#data-pre-processing-cleaning)
 7. [Basic Data Visualization](#basic-data-visualization)
-8. [Kurulum & Nasıl Kullanılır?](#kurulum--nasıl-kullanılır)
-9. [Katkıda Bulunma (Opsiyonel)](#katkıda-bulunma-opsiyonel)
+8. [Katkıda Bulunma](#katkıda-bulunma)
 
 ---
 
@@ -75,5 +74,10 @@ Bu klasör altında makine öğrenmesi ve veri bilimine dair çeşitli alt dersl
 ## Basic Data Visualization
 - **İçerik**: Temel veri görselleştirme yöntemleri.  
 - **Ne bulacaksın**: Matplotlib gibi kütüphanelerle çizgi grafik, bar, histogram, scatter plot örnekleri.
+
+---
+## Katkıda Bulunma
+- **Yeni bir konu eklemek, hata düzeltmek veya geliştirme yapmak istersen pull request açabilirsin.**
+- **Bana direkt mesaj atarak soru ve önerilerini de paylaşman mümkün.**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
