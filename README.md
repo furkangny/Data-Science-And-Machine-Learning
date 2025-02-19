@@ -4,7 +4,7 @@ Bu repoda makine öğrenmesi ve veri bilimiyle ilgili **farklı konulara dair no
 
 ## İçindekiler
 
-1. [Tutorial's](#tutorial's)
+1. [Tutorial](#tutorial)
    - [Machine Learning Tutorial](#machine-learning-tutorial)
    - [Mini Tutorial for Data Science](#mini-tutorial-for-data-science)
    - [Plotly Tutorial](#plotly-tutorial)
@@ -19,7 +19,7 @@ Bu repoda makine öğrenmesi ve veri bilimiyle ilgili **farklı konulara dair no
 
 ---
 
-## Tutorial's
+## Tutorial
 
 Bu klasör altında makine öğrenmesi ve veri bilimine dair çeşitli alt dersler (tutorial'lar) bulunuyor. Her biri, ilgili konuya yönelik temel bilgiler ve örnek uygulamalar içeriyor.
 
