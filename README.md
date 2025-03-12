@@ -16,7 +16,8 @@ In this repository, I've compiled my **notes and practical work on various topic
 5. [Data Science Mini Practice](#data-science-mini-practice)
 6. [Data Pre-processing (Cleaning)](#data-pre-processing-cleaning)
 7. [Basic Data Visualization](#basic-data-visualization)
-8. [Contributing](#contributing)
+8. [Big Data with Spark](#big-data-with-spark)
+9. [Contributing](#contributing)
 
 ---
 
@@ -79,6 +80,13 @@ This folder contains various sub-tutorials on machine learning and data science.
 
 ---
 
+## Big Data with Spark
+- **Content**: Processing big data with the spark library.
+- **What you'll find**: The difference between the data processing steps we do with pandas and numpy using spark library features
+  
+
+---
+
 ## Contributing
 - **Feel free to open a pull request** if you’d like to add new content, fix issues, or make improvements.
 - **You can also send me a direct message** for any questions or suggestions.
@@ -102,7 +110,8 @@ Bu repoda makine öğrenmesi ve veri bilimiyle ilgili **farklı konulara dair no
 5. [Data Science Mini Practice](#data-science-mini-practice)
 6. [Data Pre-processing (Cleaning)](#data-pre-processing-cleaning)
 7. [Basic Data Visualization](#basic-data-visualization)
-8. [Katkıda Bulunma](#katkıda-bulunma)
+8. [Big Data with Spark](#big-data-with-spark)
+9. [Katkıda Bulunma](#katkıda-bulunma)
 
 ---
 
@@ -161,6 +170,12 @@ Bu klasör altında makine öğrenmesi ve veri bilimine dair çeşitli alt dersl
 ## Basic Data Visualization
 - **İçerik**: Temel veri görselleştirme yöntemleri.  
 - **Ne bulacaksın**: Matplotlib gibi kütüphanelerle çizgi grafik, bar, histogram, scatter plot örnekleri.
+
+---
+
+## Basic Data Visualization
+- **İçerik**: Spark ile büyük veri işleme.  
+- **Ne bulacaksın**: Spark özelliklerini kullanarak pandas ve numpy ile yaptığımız veri işleme adımları arasındaki fark.
 
 ---
 ## Katkıda Bulunma
